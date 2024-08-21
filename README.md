@@ -36,6 +36,7 @@ Branching is key in development environment, it enables simultanous development 
 forking is basically copying the code without the git history to work with the current state of the code, then cloning is similar with the exeception that we have access to the git.
 
 ## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
+Issues and planning are essential in software Engineering 
 
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
 a key mistake or mistake new developers may run into is not making enough commits thereby having untracked progress.
